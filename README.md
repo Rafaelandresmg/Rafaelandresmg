@@ -12,7 +12,7 @@ Data Analyst with experience in the hospitality and food & beverage industries, 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Proyecto de Datos de Analisis de Datos Sobre Siniestros Viales en Buenos Aires Argentina</h3>
 <div align="center">
-<a href="[https://github.com/ArisGuimera/Android-Expert](https://github.com/Rafaelandresmg/Proyecto-Individual-Nro-2-Siniestros-Viales-)" target="_blank"><img src="[https://i.imgur.com/Jji0CIE.jpg](https://github.com/Rafaelandresmg/Proyecto-Individual-Nro-2-Siniestros-Viales-/blob/main/assets/0.jpg)" width="400" alt="Proyecto de Datos de Analisis de Datos Sobre Siniestros Viales en Buenos Aires Argentina"></a>
+<a href="[https://github.com/ArisGuimera/Android-Expert](https://github.com/Rafaelandresmg/Proyecto-Individual-Nro-2-Siniestros-Viales-)" target="_blank"><img src="[(https://github.com/Rafaelandresmg/Proyecto-Individual-Nro-2-Siniestros-Viales-/blob/main/assets/0.jpg)" width="400" alt=""></a>
 <p>
