@@ -16,22 +16,28 @@ Data Analyst with experience in the hospitality and food & beverage industries, 
 <a href="https://github.com/Rafaelandresmg/Proyecto-Individual-Nro-2-Siniestros-Viales-/blob/main/README.md" target="_blank"><img src="https://github.com/Rafaelandresmg/Proyecto-Individual-Nro-2-Siniestros-Viales-/blob/main/assets/0.jpg" width="400" alt="<<<<Road Accident Analysis"></a>
 <p>
 <a href="https://github.com/Rafaelandresmg/Proyecto-Individual-Nro-2-Siniestros-Viales-/blob/main/README.md" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-</p>
-<p>Steam Game Recommendation System" Academic experience. Henry Bootcamp. This project involves creating a video game recommendation system for Steam users, using data provided by HENRY. The project covers all phases of the lifecycle of a Machine Learning project, from data preparation to API deployment.</p>
-</div>
-  
+
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Steam Proyect Mlops</h3>
 <div align="center">
-<a href="[https://github.com/Rafaelandresmg/Proyecto-Individual-Nro-2-Siniestros-Viales-/blob/main/README.md](https://github.com/Rafaelandresmg/Proyecto-Individual-N-1-Machine-Learning-Operations-Mlop-)" target="_blank"><img src="https://github.com/Rafaelandresmg/Proyecto-Individual-N-1-Machine-Learning-Operations-Mlop-/blob/main/Assets/Proyecto%20png%201.png" width="400" alt="<<<<Steam Proyect Mlops"></a>
+<a href="https://github.com/Rafaelandresmg/Proyecto-Individual-N-1-Machine-Learning-Operations-Mlop-" target="_blank"><img src="https://github.com/Rafaelandresmg/Proyecto-Individual-N-1-Machine-Learning-Operations-Mlop-/blob/main/Assets/Proyecto%20png%201.png" width="400" alt="<<<<Steam Proyect Mlops"></a>
 <p>
 <a href="https://github.com/Rafaelandresmg/Proyecto-Individual-N-1-Machine-Learning-Operations-Mlop-?tab=readme-ov-file" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-</p>
-<p>Traffic Accident Analysis Project in the Autonomous City of Buenos Aires" Project Objective The main objective of this project is to analyze and visualize data related to traffic accidents in the City of Buenos Aires. Through this analysis, we seek to identify patterns, trends, and high-risk areas to contribute to informed decision-making and the implementation of preventive measures. This project was carried out simulating to be a Data Analyst of a consulting firm; and its purpose is to prepare a data analysis requested by the Observatory of Mobility and Road Safety (OMSV), under the orbit of the Secretariat of Transportation of the Government of the Autonomous City of Buenos Aires (CABA)</p>
-</div>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Yelp Review Proyect</h3>
+<div align="center">
+<a href="https://github.com/Rafaelandresmg/Proyecto-Final-Yelp" target="_blank"><img src="https://github.com/Rafaelandresmg/Proyecto-Final-Yelp/blob/main/images/Captura%20de%20pantalla%202024-05-04%20103754.png" width="400" alt="<<<<Yelp Review Proyect"></a>
+<p>
+<a href="https://github.com/Rafaelandresmg/Proyecto-Individual-N-1-Machine-Learning-Operations-Mlop-?tab=readme-ov-file" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
